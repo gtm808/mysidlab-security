@@ -1,8 +1,8 @@
 ---
 users:
   - name: gtm01
-    aws_groups: "sacramento, fresno, indio"
+    aws_groups: "gtmsacramento, gtmfresno, gtmindio"
   - name: gtm02
-    aws_groups: "losangeles, sanfrancisco, napa"
+    aws_groups: "gtmlosangeles, gtmsanfrancisco, gtmnapa"
   - name: gtm03
-    aws_groups: "palmsprings, indio, sandiego"
+    aws_groups: "gtmpalmsprings, gtmindio, gtmsandiego"
